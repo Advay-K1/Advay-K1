@@ -29,7 +29,7 @@ I'm a Student.
 
 ### 📊 Stats
 
-![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdvayK-1&show_icons=true&theme=dracula)
+![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advay-K1&show_icons=true&theme=dracula)
 
 
 #
