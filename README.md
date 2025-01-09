@@ -32,7 +32,7 @@ I'm a Computer Science + Statistics student at UIUC interested in the theoretica
 
 ### 📊 Stats
 
-![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advay-K1&show_icons=true&theme=dracula)
+![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advay-K1&show_icons=true&theme=gruvbox)
 
 #
 
