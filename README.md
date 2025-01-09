@@ -2,7 +2,7 @@
 
 **`Aspiring Computer Scientist (Developer/Researcher/Innovator)`**
 
-I'm a Computer Science + Statistics student at UIUC interested in the theoretical and applied aspects of algorithms/statistics/machine learning. 
+I'm a Computer Science + Statistics student at UIUC interested in the theoretical and applied aspects of algorithms/statistics/machine learning. I have experience in Software Engineering, Data Science, Data Engineering, and Research. Please feel free to reach out at advay.kadam10@gmail.com
 
 
 ---
