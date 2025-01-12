@@ -41,7 +41,6 @@ I'm a Computer Science + Statistics student at UIUC interested in the theoretica
 
 ![Advay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advay-K1&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Advay-K1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
